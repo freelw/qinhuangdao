@@ -10,6 +10,7 @@
     * [阿那亚礼堂](part2/litang.md)
     * [孤独的图书馆](part2/library.md)
 * 其他景点
+    * [阿那亚艺术中心](part2/artcenter.md)
     * [沙丘美术馆](part2/gallery.md)
     * [宠物活动区](part2/danta.md)
 
