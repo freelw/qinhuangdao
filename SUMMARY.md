@@ -1,6 +1,6 @@
 ## 概览
 
-* [概览](README.md)
+* [欢迎来到阿那亚](README.md)
 * [酒店概览](part1/hotel.md)
 * [周边概览](part1/near.md)
 

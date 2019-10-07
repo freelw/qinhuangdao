@@ -1,7 +1,10 @@
 # 酒店概览
 
 * 地址：北戴河新区黄金假日滨海度假城C7-2一期4号楼
-![avatar](http://p1.meituan.net/tdchotel/a045879ffab87a8a7cce0c219a64fa7e50609.jpg)
+![avatar](/pic/0.jpg)
+![avatar](/pic/5.jpg)
+![avatar](/pic/6.jpg)
+![avatar](/pic/7.jpg)
 * 我们将于2019年10月9日14：00入住，于11日12：00退房
 * 酒店设施
     * 送餐服务
