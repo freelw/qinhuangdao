@@ -1,14 +1,13 @@
-### Part I
+### 概览
 
-* [Introduction](README.md)
-* [Writing is nice](part1/writing.md)
-* [GitBook is nice](part1/gitbook.md)
+* [概览](README.md)
+* [酒店概览](part1/hotel.md)
+* [周边概览](part1/near.md)
 
-### Part II
+### 附近景点
 
-* [We love feedback](part2/feedback_please.md)
-* [Better tools for authors](part2/better_tools.md)
+* [1](part2/feedback_please.md)
+* [2](part2/better_tools.md)
 
----
 
-* [Last part without title](part3/title.md)
+### 推荐行程
